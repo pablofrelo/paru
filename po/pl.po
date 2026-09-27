@@ -278,15 +278,15 @@ msgstr "Repo"
 
 #: src/fmt.rs:252
 msgid "Repo Make"
-msgstr "Repo (budowanie)"
+msgstr "Repo do budowania"
 
 #: src/fmt.rs:272
 msgid "Pkgbuilds Make"
-msgstr "Pkgbuilds (budowanie)"
+msgstr "Pkgbuilds do budowania"
 
 #: src/fmt.rs:274
 msgid "Aur Make"
-msgstr "Aur (budowanie)"
+msgstr "Aur do budowania"
 
 #: src/fmt.rs:319
 msgid "Repo ({})"
